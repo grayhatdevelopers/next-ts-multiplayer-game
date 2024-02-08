@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) multiplayer game project bootstrapped with [`create-multiplayer-game`](https://github.com/grayhatdevelopers/create-multiplayer-game).
+
+## Features
+- PlayroomKit integrated
+- Some base components needed for games
+- Some basic routing, good for games
+
+### Help needed
+- Currently, the gameState is managed by a multiplayer state in PlayroomKit called "gameState". Would be cool to manage this with routes.
 
 ## Getting Started
 
